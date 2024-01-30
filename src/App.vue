@@ -37,7 +37,7 @@ function addText() {
 <template>
    
    <div id="navbar" class="container">  
-        <div id="title">{{name}} awesome website</div>
+        <div id="title">{{name}} first website</div>
         
         <div id="logo">
             <img src="./cow.jpg" alt="macad cow">
