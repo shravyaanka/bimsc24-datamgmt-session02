@@ -152,7 +152,7 @@ img{
 
     width: 25%;
     border-color: rgb(13, 13, 14);
-    background-color: rgb(165, 211, 224);
+    background-color: rgb(123, 197, 137);
     padding: 8px;
     
 
