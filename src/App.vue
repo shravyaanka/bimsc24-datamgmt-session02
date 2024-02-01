@@ -161,7 +161,7 @@ img{
 #buttons1{
 
     display: flex;
-    justify-content: left;
+    justify-content: right;
     margin: 20px;
 
 }
