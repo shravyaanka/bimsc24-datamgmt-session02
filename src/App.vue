@@ -103,8 +103,8 @@ function addText() {
 <style scoped>
 html{
     
-    background-color: rgb(57, 59, 106); 
-    color: rgb(250, 246, 246);
+    background-color: rgb(106, 57, 104); 
+    color: rgb(246, 250, 250);
 }
 
 body{
@@ -129,14 +129,14 @@ img{
 
     height: 50px;
     border-color: rgb(38, 219, 207);
-    background-color: rgb(101, 161, 161);
+    background-color: rgb(45, 104, 82);
     padding: 2%;
     display: flex;
     flex-direction:column;
     text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: x-large;
-    font-style: italic;
+    font-style: bold;
     
 
 
@@ -151,7 +151,7 @@ img{
 #sidebar{
 
     width: 25%;
-    border-color: rgb(38, 123, 219);
+    border-color: rgb(13, 13, 14);
     background-color: rgb(165, 211, 224);
     padding: 8px;
     
@@ -170,7 +170,7 @@ img{
 
 display: flex;
 justify-content: left;
-margin: 20px;
+margin: 10px;
 
 }
 
@@ -202,7 +202,7 @@ margin: 20px;
 }
 
 #title{
-    width: 70%;
+    width: 50%;
     float:left;
 }
 
