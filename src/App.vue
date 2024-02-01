@@ -133,7 +133,7 @@ img{
     padding: 2%;
     display: flex;
     flex-direction:column;
-    text-align: left;
+    text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: x-large;
     font-style: bold;
@@ -150,7 +150,7 @@ img{
 
 #sidebar{
 
-    width: 25%;
+    width: 60%;
     border-color: rgb(13, 13, 14);
     background-color: rgb(123, 197, 137);
     padding: 8px;
@@ -193,7 +193,7 @@ margin: 20px;
 }
 
 #main{
-    width: 75%;
+    width: 40%;
     border-color: green;
     background-color: var(--mainColor);
     padding: 20px;
@@ -207,7 +207,7 @@ margin: 20px;
 }
 
 #logo{
-    width: 30%;
+    width: 50%;
     height: 100%;
     float:left;
     text-align: right;
