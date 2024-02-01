@@ -4,7 +4,7 @@ import { ref } from "vue" // you need this to use ref()
 
 let count = ref(0);
 let scriptName = ref ("addTwoNumbers.gh")
-let name = ref("shravya")
+let name = ref("Shravya's")
 
 function increment() { 
     count.value++;
@@ -203,13 +203,13 @@ margin: 20px;
 
 #title{
     width: 50%;
-    float:left;
+    float:center;
 }
 
 #logo{
     width: 30%;
     height: 100%;
-    float:right;
+    float:left;
     text-align: right;
 
 }
